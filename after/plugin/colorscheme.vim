@@ -1,2 +1,0 @@
-
-colorscheme ansi_blows
